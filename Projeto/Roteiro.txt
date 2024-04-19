@@ -1,0 +1,4 @@
+1 - Compreender o problema de negócio;
+2 - Coletar os dados;
+3 - Data Munging (manipulação de dados);
+4 - 
